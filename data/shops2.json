@@ -1,0 +1,81 @@
+[
+  {
+    "name": "小米CC9e",
+    "desc": "前置3200万自拍 / 索尼4800万超广角三摄 / 4030mAh大电量 / 3D全曲面玻璃机身，浪漫满分的全新配色 / 6.088英寸三星 AMOLED水滴屏 /第七代屏幕指纹 / 首发骁龙665处理器 / 全新Mimoji萌拍 / 红外遥控功能",
+    "id": 0,
+    "category": "小米自营",
+    "price":"1299元",
+    "oldPrice":"1599元",
+    "img":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1562074229.67438352.jpg",
+    "supports": [
+      {
+        "description": "小米自营"
+      },
+      {
+        "description": "小米发货"
+      },
+      {
+        "description": "7天无理由退货"
+      },
+      {
+        "description": "运费说明"
+      },
+      {
+        "description": "30天价格保护"
+      }
+    ]
+  },
+  {
+    "name": "Redmi Note 8 Pro",
+    "desc": "6400万旗舰级全场景四摄 / 前置2000万 AI美颜相机 / G90T专业游戏芯片，液冷散热 / 6.53英寸水滴全面屏 / 4500mAh大电量 / 标配18W快充 / 康宁大猩猩保护玻璃 / 多功能NFC / 红外遥控功能 / Game Turbo2.0游戏加速",
+    "id": 1,
+    "category": "小米自营",
+    "price":"1399元",
+    "oldPrice":"1599元",
+    "img":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1567056652.076330.png",
+    "supports": [
+      {
+        "description": "小米自营"
+      },
+      {
+        "description": "小米发货"
+      },
+      {
+        "description": "7天无理由退货"
+      },
+      {
+        "description": "运费说明"
+      },
+      {
+        "description": "30天价格保护"
+      }
+    ]
+  },
+  {
+    "name": "小米手环4",
+    "desc": "全新 AMOLED 大屏彩显，支持77种个性主题。拥有20天的超长续航，能用支付宝抬手支付。50米防水，支持游泳模式。还能看微信、看来电、测心率、测睡眠。戴上它，你的改变从今天开始。",
+    "id": 2,
+    "category": "小米自营",
+    "price":"169元",
+    "oldPrice":"179元",
+    "img":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1560151939.65739073.png",
+    "supports": [
+      {
+        "description": "小米自营"
+      },
+      {
+        "description": "小米发货"
+      },
+      {
+        "description": "7天无理由退货"
+      },
+      {
+        "description": "运费说明"
+      },
+      {
+        "description": "30天价格保护"
+      }
+    ]
+  }
+
+]
